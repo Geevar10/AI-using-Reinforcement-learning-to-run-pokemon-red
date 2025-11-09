@@ -183,8 +183,3 @@ If you build upon this work, please cite the original paper and this enhancement
 > Enhanced training scripts and optimization for faster, more stable agent performance.
 
 ---
-
-## 💬 Join the Community
-
-- 💬 [Join Discord](http://discord.gg/RvadteZk4G)
-- 📺 [Watch Training Demo](https://youtu.be/DcYLT37ImBY)
